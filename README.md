@@ -13,8 +13,6 @@ To download this vault to your computer, open your terminal and run:
 git clone https://github.com/j4xx3n/Bug-Bounty-Checklist.git
 ```
 
-Replace USERNAME and REPOSITORY with the actual GitHub username and repo name.
-
 ## Open in Obsidian
 1. Open Obsidian.
 1. Click "Open folder as vault" from the main screen.
