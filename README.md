@@ -10,7 +10,7 @@ This repository contains a simple Obsidian vault with a checklist for bug bounty
 To download this vault to your computer, open your terminal and run:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/j4xx3n/Bug-Bounty-Checklist.git
 ```
 
 Replace USERNAME and REPOSITORY with the actual GitHub username and repo name.
