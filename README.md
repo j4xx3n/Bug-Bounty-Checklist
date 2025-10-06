@@ -22,3 +22,6 @@ Replace USERNAME and REPOSITORY with the actual GitHub username and repo name.
 1. Select it and click Open.
 
 That’s it — you’re ready to start exploring and editing notes in this vault!
+
+
+<img width="836" height="629" alt="image" src="https://github.com/user-attachments/assets/bf63aa45-bc29-449f-863d-bff7a513f399" />
